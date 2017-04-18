@@ -1,0 +1,11 @@
+Model/__pycache__/Dynamics.cpython-35.pyc
+Model/__pycache__/Forces.cpython-35.pyc
+Model/__pycache__/MAVModel.cpython-35.pyc
+Model/__pycache__/MAVQuaternionModel.cpython-35.pyc
+Model/__pycache__/QuaternionDynamics.cpython-35.pyc
+Model/__pycache__/WindSimulation.cpython-35.pyc
+ParamFiles/__pycache__/AerosondeParameters.cpython-35.pyc
+
+*.pyc
+*.xml
+*.iml
